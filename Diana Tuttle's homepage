@@ -1,0 +1,67 @@
+<html>
+     <head>
+         <title>Diana Tuttle's Homepage</title>
+         <style>
+         header {
+             background-color: #bbbbbb;
+             top: 0px;
+             left: 0px;
+             width: 100%;
+             height: 20px;
+         }
+         nav {
+             position: fixed;
+             margin-top: 20px;
+             margin-bottom: 0px;
+             background-color: aqua;
+         }
+         nav li {
+            display: inline;
+         }
+         section {
+             float: left;
+             width: 20%;
+             height: 500px;
+             background-color: mintgreen;
+             color: white;
+         }
+         aside {
+             float: left;
+             width: 80%;
+             height: 500px;
+             background-color: pink;
+         }
+         footer {
+             clear: both;
+             background-color: purple;
+         }
+         body {
+             background-color: white;
+             margin: 0px;
+         }
+         </style>
+
+     </head>
+     <body>
+         <header>
+             Welcome to Diana Tuttle's Homepage
+         </header>
+         <nav>
+             <ul>
+             <li>About</li>
+             <li>Hobbies</li>
+             </ul>
+         </nav>
+         <section>
+             About Diana Tuttle
+             Diana's Hobbies
+         </section>
+         <aside>
+             <p>I was born and raised in Kaiserslautern, Germany. I moved to the United States in 1992. I am marrried and have two grown children. I also have two beautiful grandchildren. I will be graduating from Eastern Oregon University in June 2020.</p>
+             <p>My hobbies are spending as much time as possible outside doing outdoor activities. I also love to read and do puzzles. I am also a crafty persona and love to do art projects.</p>
+             </aside>
+         <footer>
+             Copyright 2020   Contact Us
+         </footer>
+     </body>
+ </html>
